@@ -57,4 +57,3 @@ Together API: For AI insights with LLaMA model.
 Requests: For API data fetching.
 License
 This project is licensed under the MIT License.
-
