@@ -1,7 +1,0 @@
-streamlit
-requests
-together
-python-dotenv
-matplotlib
-pandas
-altair
