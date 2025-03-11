@@ -71,3 +71,4 @@ Coin_Oracle/
 - **[Requests](https://docs.python-requests.org/)** – For API data fetching.  
 
 ---
+link to streamlit app :- https://coinoracle-hvthndmmyktwryqtyke7ui.streamlit.app/
